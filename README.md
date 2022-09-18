@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gersterk
 - 💻 I’m a Full Stack .Net developer
-- 👀 I’m interested in Web Technoogies and Machine Learning
+- 👀 I’m interested in Web Technologies and Machine Learning
 - 🌱 I’m currently(actively) developing .NET Technologies, TypeScript and Angular...
 - 💞️ I’m looking to collaborate on cloud computing and eCommerce web services.
 - 📫 barisdogan.biz@gmail.com  
